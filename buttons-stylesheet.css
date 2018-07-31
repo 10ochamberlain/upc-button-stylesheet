@@ -1,0 +1,51 @@
+<style unselectable="on">
+.myButton {
+	background-color:#f09809;
+	-moz-border-radius:30px;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	border:1px solid #f09809;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:32px 32px;
+	text-decoration:none;
+	color:black;
+	float:left;
+	margin:1px;
+width:10%;
+text-align:center;
+height:30px;
+}
+.myButton:hover {
+	background-color:#f0a53c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.buttonsbox {
+	text-align: center;
+}
+
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+</style>
